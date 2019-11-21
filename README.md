@@ -1,6 +1,6 @@
 # Flask API demo
 
-### Goals for the Workshop
+### Goals
 
 - Add Blueprint to make the application more modular.
    - https://flask.palletsprojects.com/en/1.1.x/blueprints/
