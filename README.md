@@ -1,4 +1,4 @@
-# API Workshop - Session 8
+# Flask API demo
 
 ### Goals for the Workshop
 
